@@ -3,7 +3,7 @@ See the full DASHBOARD here: [App Power BI Link](https://app.powerbi.com/view?r=
 
 ## About the project
 
-The development of this dashboard was meant to create visibility for a made up Chocolate retail company called Chocolate Awesome around its transaction data: revenue, cost, quantity sold, etc. With it the manager can have visibility over the companies performance across all the countries they ship to, the products they sell, the people that work in the company and generaly the status of the company across any given point in time.
+This dashboard is meant to create visibility for a made up Chocolate retail company called Chocolate Awesome around its transaction data: revenue, cost, quantity sold, etc. With it the manager can have visibility over the companies performance across all the countries they ship to, the products they sell, the people that work in the company and generaly the status of the company across any given point in time.
 
 ### The development of this project included
 Data import, Power Query, Data modeling, DAX, Data visualization and Power BI Service.
