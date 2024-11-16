@@ -7,4 +7,4 @@ The development of this project included: Data import, Power Query, Data modelin
 
 The development of the dashboard included: Dashboard design, time intelligence, KPI cards, reference labels, conditional formatting, tooltips, field paramaters, bookmarks, dynamic trends, grouping, histograms, zoom sliders, table design and alert icons. 
 
-![Portfolio Dashboard](Dashboard - Chocolate Awesome.png)
+![Portfolio Dashboard](dashboard.png)
