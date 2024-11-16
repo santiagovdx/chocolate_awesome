@@ -1,4 +1,4 @@
-# Power BI See the full DASHBOARD here: [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiOTM4YzIxYzgtYmMyZC00MzdhLWE0NmQtNmIxNTMxNTRhZTM2IiwidCI6IjYxNjg1NWU4LTRhODEtNDBiMC05YmI5LTEwYWZlNGUwMDk2NiJ9)
+# Power BI | See full DASHBOARD here: [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiOTM4YzIxYzgtYmMyZC00MzdhLWE0NmQtNmIxNTMxNTRhZTM2IiwidCI6IjYxNjg1NWU4LTRhODEtNDBiMC05YmI5LTEwYWZlNGUwMDk2NiJ9)
 
 ## About the project
 
