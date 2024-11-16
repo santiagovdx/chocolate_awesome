@@ -10,4 +10,14 @@ Data import, Power Query, Data modeling, DAX, Data visualization and Power BI Se
 ### The development of the dashboard included
 Dashboard design, time intelligence, KPI cards, reference labels, conditional formatting, tooltips, field paramaters, bookmarks, dynamic trends, grouping, histograms, zoom sliders, table design and alert icons. 
 
+## Steps
+- Load all data tables from the xlsx file into Power Query using the xlsx connector
+- Perform data transformations to the data to have it ready for the modeling phase
+- Create relationships in the model view
+- Build DAX measures to feed the data objects
+- Design the dashboards layout to have a blueprint
+- Create the dashboard
+- Add more elements like: buttons, bookmarks, slicers, etc
+- Publish the dashboard in Power BI Service
+
 ![Portfolio Dashboard](dashboard.png)
